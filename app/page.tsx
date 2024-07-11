@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="flex flex-col items-center justify-evenly h-screen gap-y-6 ">
+    <div className="flex flex-col items-center justify-evenly h-screen gap-y-6 bg-slate-200">
       <div className="h-[100%] w-[390px] bg-background overflow-x-hidden">
         <div className="h-[56px] bg-white flex  items-stretch flex-row">
           <div className="flex items-center">
